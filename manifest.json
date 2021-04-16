@@ -1,0 +1,39 @@
+{
+  "name": "Fostex ID",
+  "short_name": "Fostex ID",
+  "scope": "https://fostexid.blogspot.com/",
+  "start_url": "https://fostexid.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Tempat download aplikasi android mod, software pc, belajar coding, dan berita terbaru lainnya",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-clug2Oyc-ZA/YHkxPOpjL0I/AAAAAAAAAUQ/hoqUsOTzD48E5XYTeA7LFwSCbjb3q8ReQCLcBGAsYHQ/s48/20210416_111914.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-clug2Oyc-ZA/YHkxPOpjL0I/AAAAAAAAAUQ/hoqUsOTzD48E5XYTeA7LFwSCbjb3q8ReQCLcBGAsYHQ/s72/20210416_111914.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-clug2Oyc-ZA/YHkxPOpjL0I/AAAAAAAAAUQ/hoqUsOTzD48E5XYTeA7LFwSCbjb3q8ReQCLcBGAsYHQ/s96/20210416_111914.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-clug2Oyc-ZA/YHkxPOpjL0I/AAAAAAAAAUQ/hoqUsOTzD48E5XYTeA7LFwSCbjb3q8ReQCLcBGAsYHQ/s144/20210416_111914.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-clug2Oyc-ZA/YHkxPOpjL0I/AAAAAAAAAUQ/hoqUsOTzD48E5XYTeA7LFwSCbjb3q8ReQCLcBGAsYHQ/s168/20210416_111914.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-clug2Oyc-ZA/YHkxPOpjL0I/AAAAAAAAAUQ/hoqUsOTzD48E5XYTeA7LFwSCbjb3q8ReQCLcBGAsYHQ/s192/20210416_111914.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-clug2Oyc-ZA/YHkxPOpjL0I/AAAAAAAAAUQ/hoqUsOTzD48E5XYTeA7LFwSCbjb3q8ReQCLcBGAsYHQ/s512/20210416_111914.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
